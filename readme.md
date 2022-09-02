@@ -2,7 +2,7 @@
 
 A Landing page for a modern bank company buit using React V18.
 
-Check out the design [here](https://x-vneer.github.io/Manage/HooBank).
+Check out the design [here](https://x-vneer.github.io/HooBank).
 
 # This project was bootstrapped using [Vite](https://vitejs.dev/).
 

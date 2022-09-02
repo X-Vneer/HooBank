@@ -1,7 +1,6 @@
 import { Scan, onlineAnalysis, paymentMethods } from "../assets";
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { useTransform, useTime } from "framer-motion";
 
 const CardDealShap = () => {
   const [select, setSelect] = useState("1 month");
